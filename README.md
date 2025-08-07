@@ -1,4 +1,4 @@
-🧠 Introdução/
+🧠 Introdução
 
 Este projeto tem como objetivo analisar o mercado de restaurantes em Los Angeles para avaliar a viabilidade de abrir uma cafeteria inovadora, onde garçons são substituídos por robôs. A proposta combina tecnologia e eficiência para oferecer um serviço diferenciado, com foco em custo-benefício, localização estratégica e alta avaliação dos clientes.
 A análise foi baseada em um dataset contendo informações detalhadas sobre diversos restaurantes, incluindo tipo de serviço, faixa de preço, avaliação média, quantidade de avaliações e localização. A partir desses dados, foram criados critérios de segmentação e filtros para identificar os restaurantes mais bem avaliados, com preço acessível e atendimento rápido, características desejadas para o modelo de negócio proposto.
@@ -16,7 +16,7 @@ Repositório com os projetos desenvolvidos durante o curso de formação em Aná
 | 3      | Análise de Teste A/B em Loja Online                | [Ver projeto](https://github.com/gschmidel19/sprint-3-ab-test-analysis/tree/main/sprint-3-ab-test-analysis) |
 | 4      | Análise Estatística de Dados: Plano Megaline       | [Ver projeto](https://github.com/gschmidel19/Sprint_4_Megaline/tree/main/Sprint_4_Megaline) |
 | 5      | Dashboard Interativo com Streamlit                 | [Ver projeto](https://testeaula-vadtlkgochzupctcfyxgp6.streamlit.app) |
-| 6      | Análise de Mercado: Robôs Garçons em Los Angeles   | [Ver projeto](https://github.com/gschmidel19/Sprint_6_LA_Restaurants_Project) |
+| 6      | Análise de Vendas de Jogos: Ice Game Store         | [Ver projeto](https://github.com/gschmidel19/Sprint_6_VideoGame_Sales/tree/main/Sprint_6_VideoGame_Sales) |
 
 ## 🧰 Tecnologias
 - Python
