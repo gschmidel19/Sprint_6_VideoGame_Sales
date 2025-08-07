@@ -1,4 +1,5 @@
-🧠 Introdução
+🧠 Introdução/
+
 Este projeto tem como objetivo analisar o mercado de restaurantes em Los Angeles para avaliar a viabilidade de abrir uma cafeteria inovadora, onde garçons são substituídos por robôs. A proposta combina tecnologia e eficiência para oferecer um serviço diferenciado, com foco em custo-benefício, localização estratégica e alta avaliação dos clientes.
 A análise foi baseada em um dataset contendo informações detalhadas sobre diversos restaurantes, incluindo tipo de serviço, faixa de preço, avaliação média, quantidade de avaliações e localização. A partir desses dados, foram criados critérios de segmentação e filtros para identificar os restaurantes mais bem avaliados, com preço acessível e atendimento rápido, características desejadas para o modelo de negócio proposto.
 
