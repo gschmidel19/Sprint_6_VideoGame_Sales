@@ -9,18 +9,20 @@ Neste projeto, assumimos o papel de analista de dados na loja online **Ice**, qu
 Analisar dados históricos até 2016 para planejar campanhas publicitárias eficazes em 2017, identificando características comuns entre jogos de sucesso.
 
 ## 📁 Estrutura do Projeto
+Sprint_6_VideoGame_Sales
 
-Sprint_6_VideoGame_Sales/
-│
-├── datasets/
-│ └── games.csv # Conjunto de dados com informações de vendas
-│
-├── notebooks/
-│ └── sprint_6_games_analysis.ipynb # Análise exploratória e estatística
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+-Datasets
+      games.csv # Conjunto de dados com informações de vendas
+
+-Notebooks
+
+      sprint_6_games_analysis.ipynb #análise exploratória
+
+-README.md
+
+-requirements.txt
+
+-.gitignore
 
 
 ## 🔍 Etapas do Projeto
@@ -75,5 +77,6 @@ jupyter notebook notebooks/sprint_6_games_analysis.ipynb
 O arquivo games.csv está disponível na pasta datasets/.
 
 As colunas disponíveis:
+
 
 Name, Platform, Year_of_Release, Genre, NA_sales, EU_sales, JP_sales, Other_sales, Critic_Score, User_Score, Rating
