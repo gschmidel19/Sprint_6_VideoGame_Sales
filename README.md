@@ -1,3 +1,4 @@
+# Análise de Vendas de Jogos — Ice Store
 🧠 Introdução
 
 Este projeto tem como objetivo analisar o mercado de restaurantes em Los Angeles para avaliar a viabilidade de abrir uma cafeteria inovadora, onde garçons são substituídos por robôs. A proposta combina tecnologia e eficiência para oferecer um serviço diferenciado, com foco em custo-benefício, localização estratégica e alta avaliação dos clientes.
