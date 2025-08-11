@@ -1,4 +1,4 @@
-# 🎮 Sprint 6: Análise de Vendas de Jogos — Ice Store
+# 🎮 Análise de Vendas de Jogos — Ice Store
 
 Projeto desenvolvido durante o Bootcamp de Análise de Dados da TripleTen.
 
@@ -80,3 +80,4 @@ As colunas disponíveis:
 
 
 Name, Platform, Year_of_Release, Genre, NA_sales, EU_sales, JP_sales, Other_sales, Critic_Score, User_Score, Rating
+
